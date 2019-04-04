@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 53.1 (72631) - https://sketchapp.com -->
+    <title>1B1A8D96-8F1F-4147-8BBF-6624DED50033</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="107.959167%" id="radialGradient-1">
+            <stop stop-color="#1EB386" offset="0%"></stop>
+            <stop stop-color="#1EB386" stop-opacity="0.3" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="New-onboarding" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="New-1920px---Section-3---Votre-société" transform="translate(-597.000000, -430.000000)">
+            <g id="Create-Your-Company" transform="translate(405.000000, 170.000000)">
+                <g id="Title">
+                    <g id="create-your-company" transform="translate(95.000000, 190.000000)">
+                        <g id="Your-company-Copy">
+                            <g id="Notification-Icons-/-Valide" transform="translate(97.000000, 70.000000)">
+                                <g id="Tick">
+                                    <circle id="Oval-2-Copy-2" fill="url(#radialGradient-1)" cx="30" cy="30" r="30"></circle>
+                                    <circle id="Oval-2-Copy" fill="#1EB386" cx="30" cy="30" r="21"></circle>
+                                    <circle id="Oval-2" fill="#FFFFFF" cx="30" cy="30" r="18"></circle>
+                                    <g id="Material-Icons-/-Tick-Green" transform="translate(16.500000, 16.500000)" fill="#1EB386">
+                                        <path d="M9,12.75 L22.5,12.75 L22.5,17.25 L4.5,17.25 L4.5,12.75 L4.5,6 L9,6 L9,12.75 Z" id="Combined-Shape" transform="translate(13.500000, 11.625000) rotate(-45.000000) translate(-13.500000, -11.625000) "></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
